@@ -1,0 +1,17 @@
+{
+  "name": "desafio-academia-capgemini",
+  "version": "1.0.0",
+  "description": "desafios-terceira-etapa-processo-seletivo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test_01": "jest ./questao_01/questao01.test.js",
+    "test_02": "jest ./questao_02/questao02.test.js",
+    "test_03": "jest ./questao_03/questao03.test.js"
+  },
+  "author": "Anne Bortoli <annebortoli@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
